@@ -1,4 +1,3 @@
 - 👋 Hi, I'm @duongthinh03
 - 👀 I'm interested in the field of information technology
-- 🌱 I'm currently studying
 - 📫 How to contact me via email: dqthinhdq03@gmail.com or phone number 0869641689
