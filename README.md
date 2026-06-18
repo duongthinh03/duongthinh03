@@ -1,6 +1,6 @@
 # Hi 👋, I'm Duong Quang Thịnh
 
-### Backend Developer | ASP.NET Core | Vue.js
+### Full Stack Developer
 
 Passionate about building scalable web applications and learning modern software architecture.
 
@@ -43,57 +43,6 @@ Passionate about building scalable web applications and learning modern software
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 Library Management System
-
-Microservices-based library management platform.
-
-#### Features
-
-* Authentication & Authorization
-* Reader Management
-* Book Management
-* Borrow / Return Management
-* Notification Service
-* Search & Filtering
-* Dashboard & Statistics
-
-#### Technologies
-
-* ASP.NET Core
-* SQL Server
-* PostgreSQL
-* Entity Framework Core
-* Redis
-* Docker
-* Vue 3
-
----
-
-### 💰 Topup Management System
-
-Web platform for managing topup transactions and advertising campaigns.
-
-#### Features
-
-* User Management
-* Topup Orders
-* Advertising Management
-* Transaction History
-* Reporting Dashboard
-
-#### Technologies
-
-* ASP.NET Core
-* SQL Server
-* Vue 3
-* JWT Authentication
-* AutoMapper
-* Repository Pattern
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duongthinh03\&show_icons=true\&theme=tokyonight)
@@ -116,7 +65,7 @@ Web platform for managing topup transactions and advertising campaigns.
 
 ## 📫 Contact
 
-* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+* Email: [your_email@gmail.com](mailto:your_dqthinhdq03@gmail.com)
 * GitHub: https://github.com/duongthinh03
 
 ---
