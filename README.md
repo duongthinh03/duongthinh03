@@ -43,18 +43,6 @@ Passionate about building scalable web applications and learning modern software
 
 ---
 
-## 🔥 Current Learning
-
-* Microservices Architecture
-* Kafka
-* Redis
-* Docker
-* Clean Architecture
-* System Design
-* Distributed Systems
-
----
-
 ## 📫 Contact
 
 * Email: [dqthinhdq03@gmail.com](mailto:your_email@gmail.com)
