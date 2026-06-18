@@ -4,7 +4,7 @@ Backend Developer focused on .NET ecosystem.
 
 ## 🚀 Tech Stack
 
-- ASP.NET Core
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
 - Entity Framework Core
 - SQL Server
 - PostgreSQL
