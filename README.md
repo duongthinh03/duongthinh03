@@ -43,14 +43,6 @@ Passionate about building scalable web applications and learning modern software
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duongthinh03\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duongthinh03\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔥 Current Learning
 
 * Microservices Architecture
