@@ -8,11 +8,11 @@ Passionate about building scalable web applications and learning modern software
 
 ## 🚀 About Me
 
-* 💻 Backend Developer specializing in ASP.NET Core
+* 💻 Full Stack Developer specializing in ASP.NET Core
 * 🌱 Currently learning Microservices, Kafka, Redis and Docker
 * 📚 Building a Library Management System using Microservices Architecture
 * 🔍 Interested in System Design and Distributed Systems
-* 🎯 Goal: Become a Senior Backend Engineer
+* 🎯 Goal: Become a Senior Full Stack Engineer
 
 ---
 
