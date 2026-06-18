@@ -57,7 +57,7 @@ Passionate about building scalable web applications and learning modern software
 
 ## 📫 Contact
 
-* Email: [your_email@gmail.com](mailto:your_dqthinhdq03@gmail.com)
+* Email: [dqthinhdq03@gmail.com](mailto:your_email@gmail.com)
 * GitHub: https://github.com/duongthinh03
 
 ---
