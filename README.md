@@ -1,3 +1,18 @@
-- 👋 Hi, I'm @duongthinh03
-- 👀 I'm interested in the field of information technology
-- 📫 How to contact me via email: dqthinhdq03@gmail.com or phone number 0869641689
+# Hi there 👋 I'm Duong Quang Thịnh
+
+Backend Developer focused on .NET ecosystem.
+
+## 🚀 Tech Stack
+
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- Redis
+- Kafka
+- Vue.js
+- Docker
+
+## 📫 Contact
+
+Email: dqthinhdq03@gmail.com
