@@ -2,19 +2,7 @@
 
 ### Full Stack Developer
 
-Passionate about building scalable web applications and learning modern software architecture.
-
----
-
-## 🚀 About Me
-
-* 💻 Full Stack Developer specializing in ASP.NET Core
-* 🌱 Currently learning Microservices, Kafka, Redis and Docker
-* 📚 Building a Library Management System using Microservices Architecture
-* 🔍 Interested in System Design and Distributed Systems
-* 🎯 Goal: Become a Senior Full Stack Engineer
-
----
+Building web applications with ASP.NET Core and Vue.js.
 
 ## 🛠️ Tech Stack
 
@@ -35,21 +23,18 @@ Passionate about building scalable web applications and learning modern software
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Tools
+### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
----
+## 📚 Featured Projects
+
+* Library Management System (Microservices)
+* Topup Management System
 
 ## 📫 Contact
 
-* Email: [dqthinhdq03@gmail.com](mailto:your_email@gmail.com)
+* Email: [dqthinhdq03@gmail.com](mailto:dqthinhdq03@gmail.com)
 * GitHub: https://github.com/duongthinh03
-
----
-
-### 💡 Quote
-
-"First, solve the problem. Then, write the code."
