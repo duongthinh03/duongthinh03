@@ -29,11 +29,6 @@ Building web applications with ASP.NET Core and Vue.js.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-## 📚 Featured Projects
-
-* Library Management System (Microservices)
-* Topup Management System
-
 ## 📫 Contact
 
 * Email: [dqthinhdq03@gmail.com](mailto:dqthinhdq03@gmail.com)
