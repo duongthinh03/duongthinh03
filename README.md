@@ -31,5 +31,5 @@ Building web applications with ASP.NET Core and Vue.js.
 
 ## 📫 Contact
 
-* Email: [dqthinhdq03@gmail.com](mailto:dqthinhdq03@gmail.com)
+Email: [dqthinhdq03@gmail.com](mailto:dqthinhdq03@gmail.com)
 * GitHub: https://github.com/duongthinh03
